@@ -1,0 +1,50 @@
+{
+  "Create Student" : {
+    "transaction" : "Create Student",
+    "sampleCount" : 300,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 55.739999999999974,
+    "medianResTime" : 51.0,
+    "minResTime" : 46.0,
+    "maxResTime" : 328.0,
+    "pct1ResTime" : 66.0,
+    "pct2ResTime" : 70.0,
+    "pct3ResTime" : 96.99000000000001,
+    "throughput" : 10.402940564532908,
+    "receivedKBytesPerSec" : 5.160833795686247,
+    "sentKBytesPerSec" : 3.5556925757680835
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 600,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 66.13166666666667,
+    "medianResTime" : 52.0,
+    "minResTime" : 45.0,
+    "maxResTime" : 1144.0,
+    "pct1ResTime" : 69.0,
+    "pct2ResTime" : 208.94999999999993,
+    "pct3ResTime" : 285.99,
+    "throughput" : 20.008670423850337,
+    "receivedKBytesPerSec" : 71.63260329476107,
+    "sentKBytesPerSec" : 4.640682837562944
+  },
+  "GET Student" : {
+    "transaction" : "GET Student",
+    "sampleCount" : 300,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 76.52333333333334,
+    "medianResTime" : 52.0,
+    "minResTime" : 45.0,
+    "maxResTime" : 1144.0,
+    "pct1ResTime" : 196.50000000000392,
+    "pct2ResTime" : 234.89999999999998,
+    "pct3ResTime" : 312.7900000000002,
+    "throughput" : 10.02070946623021,
+    "receivedKBytesPerSec" : 66.77863417729975,
+    "sentKBytesPerSec" : 1.22323113601443
+  }
+}
